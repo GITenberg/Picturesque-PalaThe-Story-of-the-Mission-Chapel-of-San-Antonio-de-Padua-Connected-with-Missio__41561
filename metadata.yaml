@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '892'
     url: http://www.gutenberg.org/2009/agents/892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41561#Picturesque-PalaThe-Story-of-the-Mission-Chapel-of-San-Antonio-de-Padua-Connected-with-Missio_
 gutenberg_issued: '2012-12-05'
 gutenberg_type: Text
 identifiers:
