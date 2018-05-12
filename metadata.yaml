@@ -1,0 +1,37 @@
+_repo: Picturesque-PalaThe-Story-of-the-Mission-Chapel-of-San-Antonio-de-Padua-Connected-with-Missio__41561
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, George Wharton
+    alias: James, G. Wharton (George Wharton)
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '892'
+    url: http://www.gutenberg.org/2009/agents/892
+description: ''
+gutenberg_issued: '2012-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41561'
+  lccn: '18001851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cupeño Indians -- California -- Pala'
+- !lcsh 'Franciscans -- California -- Pala -- History'
+- !lcsh 'California -- History -- To 1846'
+- !lcc 'F850.5'
+- !lcsh 'Pala (Calif.) -- History'
+- !lcsh 'Mission San Antonio de Pala'
+- !lcsh 'Spanish mission buildings -- California -- Pala -- History'
+- !lcsh 'Luiseño Indians -- California -- Pala'
+title: 'Picturesque Pala
+
+  The Story of the Mission Chapel of San Antonio de Padua Connected with Mission San
+  Luis Rey'
+url: http://www.gutenberg.org/ebooks/41561
